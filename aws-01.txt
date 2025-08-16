@@ -1,0 +1,173 @@
+
+=============================
+What is IT Infrastructure ?
+=============================
+
+=> To run a software company then we need to purchase below resources
+
+		a) machines
+		b) network
+		c) power
+		d) storage
+		e) backup
+		f) security
+
+=> The above resources are called as IT infrastructure.
+
+=> We can maintain infrastructure in 2 ways
+
+		a) On-Prem infrastructure		
+		b) Cloud infrastructure	
+
+==================================
+What is On-Prem Infrastructure ?
+==================================		
+
+=> On-Prem means we need to purchase and we need to maintain our resources to run our business.
+
+=> We have several challenges with On-Prem infrastructure
+
+		1) Lot of money investement
+		2) Lot of man power
+		3) Scalability (increase / decrease)
+		4) Availability
+		5) Network issues
+		6) Security issues
+
+=> To overcome the problems of on-prem infrastructure companies are preferring Cloud Infrastructure.
+
+===========================
+What is Cloud Computing ?
+===========================
+
+=> The process of delivering IT resources over the internet on demand basis is called as Cloud Computing.
+
+=> We have below advantages with cloud computing.
+
+		- Pay as you go
+		- Less cost
+		- Scalability
+		- Availability
+		- Security
+		- Backup
+
+Note: Cloud computing works based on pay as you go model.
+
+================
+Cloud Providers
+================
+
+=> The companies which are providing IT infrastructure based on "pay as you go" model are called as Cloud Providers.
+
+1) Amazon (AWS)
+
+2) Microsoft (Azure)
+
+3) Google (GCP)
+
+4) Salesforce
+
+5) Ali Baba
+
+6) Digital Ocean
+
+=======================
+Cloud Service Models
+=======================
+
+=> We have 3 types cloud service models
+
+	1) IAAS
+
+	2) PAAS
+
+	3) SAAS
+
+=============
+What is IaaS
+=============
+
+=> IAAS stands for infrastructure as a service
+
+=> Provider will give infrastructure for us
+
+	Ex: Machines, Network, Storage
+
+=> As a customer we need to prepare platform to run our application
+
+  Ex: install required softwares + setup web servers + deploy application.
+
+  	Ex: EC2, VPC
+
+=============
+What is PaaS
+=============   
+
+=> PaaS stands for Platform as a service
+
+=> Provider will give ready made platform to run our application directley.
+
+=> As a customer we need to take care of only our application deployment.
+
+	Ex: Beanstack, Lambdas ...
+
+=================
+What is SaaS
+=================
+
+=> SaaS stands for software as a service
+
+-> Cloud Provider will give their application to run our business.
+
+	Ex: zoom, microsoft teams,
+
+===========
+AWS Cloud  
+=========== 
+
+=> AWS stands for Amazon webservices.
+
+=> AWS providing cloud services from 2006 onwards
+
+=> AWS works based on Pay as you go model
+
+=> 190+ countries using AWS cloud services to run their businesses
+
+=> AWS having global infrastructure
+
+		36 - Regions
+
+		112 - Availability Zones		
+
+===============
+AWS Services
+===============
+
+=> We have 200+ Services.....
+
+1) EC2  : To Create Virtual Machines (Hourly Billing)
+
+2) S3 : Unlimited storage
+
+3) RDS : Relational Database service
+
+4) EFS : Elastic File System (shared file system)
+
+5) IAM : Identity & Access Management
+
+6) VPC : Virtual Private Cloud (Secured Network)
+
+7) Elastic Beanstack : End to end web-application mgmt (PaaS)
+
+8) Lambdas : Serverless computing
+
+9) Route 53 : Domain Mapping (DNS)
+
+10) ECS : Elastic Container Service
+
+11) EKS : Elastic Kubernetes Service
+
+12) Cloud Watch : Monitoring
+
+13) SNS : Simple Notification Service .....
+

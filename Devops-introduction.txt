@@ -1,0 +1,549 @@
+
+========================
+DevOps with AWS
+========================
+
+
+
+1) Course Content
+
+2) Course Details
+
+3) Q & A
+
+
+
+
+
+===============
+Pre-Requisites
+===============
+
+=> 4 Months of time
+
+=> Real Interested to become DevOps engineer
+
+=> Time for Daily Practice
+
+=========================================
+Who are eligible to attend this course ?
+=========================================
+
+1) Experienced IT professional
+
+2) Non-IT people
+
+3) Career Gap people
+
+4) Freshers
+
+Note: DevOps fresher openings are very less in the market.
+
+===============
+Course Content
+===============
+
+Module-1 : Software Project Life Cycle
+
+          - Waterfall Model
+          - Agile Model
+          - What is DevOps & Why 
+          - DevOps life cycle
+          - Roles & Responsibilities of DevOps engineer
+
+Module-2 : Linux OS with Shell Scripting
+
+Module-3 : AWS Cloud (10+ Services)
+
+Module-4 : DevOps Tools ( 15+ Tools)
+
+Module-5 : DevOps Projects Setup
+
+
+
+
+
+==============
+DevOps Tools  
+==============
+1) Maven
+2) Gradle
+3) Git Hub & Bitbucket
+4) SonarQube
+5) Nexus / JFrog
+6) Tomcat
+7) Jenkins CI CD
+8) Docker
+9) Kubernetes 
+10) Grafana & Promethues
+11) ELK Stack
+12) Terraform
+13) Ansible
+14) Trivy
+15) JIRA    
+
+=============
+AWS Services
+=============
+1) EC2 : Virutal Machines setup
+2) EBS : Block storage device for VM
+3) S3 : Unlimited storage
+4) RDS : Relational Databases
+5) IAM : Identity & Access Management
+6) VPC : Virtual Private Cloud
+7) CloudWatch : Resources Monitoring
+8) SNS : Notifications
+9) Beanstack : Web App mgmt
+10) Lambdas : Serverless computing
+11) Route53 : DNS
+12) EKS : Elastic K8S Service
+
+
+===========================
+ Python Scripting     
+
+
+===============
+Course Details
+===============
+
+Course Name : DevOps with AWS
+
+Start date : Today
+
+Duration : 4 Months
+
+Note : Daily class notes 
+
+=========================
+
+Certification Guidance
+
+
+==================================
+Module-1 : DevOps introduction
+==================================
+
+1) What is Software Project 
+
+2) Why to develop software projects
+
+3) How many types of software projects available
+
+4) What is the architecture of software project (layers)
+
+5) Tech Stack of software project
+
+====================
+Q) Software Project 
+====================
+
+=> Collection of software programs is called as Software Project.
+
+=> To develop software programs we will use programming languages.
+
+        Ex: C, C++, Java, Python, C# DOT Net...
+
+==========================================
+Q) Why to develop software project ?
+==========================================        
+
+=> Software projects are used to reduce human efforts and simplify humans life.
+
+        1) IRCTC for train tickets booking
+
+        2) Netbanking for banking operations
+
+        3) Amazon, Flipkart etc for online shopping
+        
+        4) Swiggy, zomoto for food orders
+
+============================
+Types of software projects
+============================
+
+1) Desktop applications / Stand-Alone applications
+
+2) Web Applications
+
+3) Mobile Applications  
+
+
+=> Desktop applications will execute only in one system. Only one user can access at a time.
+
+Ex : OS, Calculator, Hospital Billing s/w, Super Market Billing s/w ...
+
+
+=> Web Applications can be accessed by multiple users at a time with internet.
+
+Ex: gmail, youtube, linkedin, facebook
+
+=> Mobile applications are used to run in mobiles   
+
+Ex : whatsapp, instagram app, fb messenger, flipkart app, amazon app
+
+================================
+Software Project Architecture   
+================================
+
+=> Software application divided into 3 layers / parts   
+
+        1) Frontend
+
+        2) Backend
+
+        3) Database
+
+=> Front end contains user interface (presentation layer).
+
+    ## Frontend Technologies : Angular, React JS, Vue JS
+
+=> Backend contains business logic of our application (Business layer).
+
+    Ex: send email, send OTP, validate login credentials...
+
+    ## Backend Technologies : Java, Python, DOT Net, Node JS, PHP...
+
+=> Database is used to store the data permanently.
+
+    Ex: Oracle, MySQL, SQL Server, PostGres, Mongo DB...
+
+========================
+Application Tech Stack  
+========================
+
+App-1 : Angular + Java + Oracle
+
+App-2 : React JS + Java + Mongo DB
+
+App-3 : Angular + Python + MySQL
+
+App-4 : React JS + Dot Net + SQL Server
+
+App-5 : Angular + Dot Net + SQL Server
+
+App-6 : React JS + Node JS + Mongo DB (MERN)
+
+======================
+Teams in the project
+======================
+
+1) Business Team (Functional Team)
+
+2) Development Team
+
+3) Testing Team
+
+4) Operations Team (DevOps)
+
+
+=> Busines team is responsible to get requirements from the client and give it to Development team.
+
+=> Development Team is responsible for coding (develop the project).
+
+=> Testing team is responsible to verify project is working as expected or not.
+
+=> Operations team (DevOps) is responsible for below activites
+
+        1) Infrastructure Setup
+
+            Ex: Machines, Servers, Storage, Network, Security..
+
+        2) Configuration Management
+
+            Ex: install s/w, copy files etc...
+
+        3) Project Code Reviews
+
+        4) Build & Deployment
+
+        5) Appliation Release / Delivery
+
+        6) Monitoring  (infrastructure & application)
+
+
+=============================
+What is DevOps & Why DevOps
+=============================
+
+=> DevOps is a culture.
+
+=> DevOps is a process.
+
+=> DevOps means set of best practices.
+
+    DEV OPS = Development + Operations
+
+    Development team : Responsible for coding
+
+    Operations Team : Responsible for project delivery
+
+=> DevOps is used to establish collaboration between development team & Operations team.
+
+=> The main aim of devops is used to simplify and automate and speed up project "build + deployment + delivery" process to client with high quality.
+
+    Build = convert code into executable format (jar/war/dll)
+
+    Deployment = Execute the code using server (tomcat, jboss, iis)
+
+    Delivery = Release project to the client
+
+=> By following DevOps culture we can deliver application to client quickly with quality.
+
+=> By using several tools we can adopt "DevOps culture" in our project. Those tools are called as DevOps tools.
+
+==============
+DevOps Tools
+==============
+
+1) Terraform : To create infrastructure in cloud platform (AWS, Azure, GCP)
+
+    Ex: Machines, Databases, Storage, Network, Security, Monitoring..
+
+2) Ansible : Configuration Management
+
+    Ex: install softwares, os patchings, copy files...    
+
+3) Git Hub / Bit Bucket : Source Code Repository Servers
+
+        a) Code Integration
+
+        b) Monitoring (who, when, what, why)
+
+4) Maven / Gradle / MS Build / NPM : To perform project build process
+
+        => Convert code into executable format
+
+5) SonarQube : For Code Review (code quality check)        
+
+        => bugs
+        => security issues
+        => duplicate lines of code
+        => code coverage
+        => quality gate (pass or fail)
+
+6) Nexus / Jfrog : To store project build artifacts (jar, war, dll)
+
+7) Tomcat : Webserver (to run java based web applications)
+
+8) Docker : Containerization (package app code and app dependencies as one unit)
+
+9) Kubernetes : Orchestration (Management)
+
+10) Jenkins : For CI CD (automate build & deployment)
+
+11) Promethues & Grafana : Monitoring
+
+12) ELK / Splunk : Application Log Monitoring
+
+13) JIRA : Project Management Tool + Bug Reporting
+
+
+=================================================
+Roles and Responsibilities of DevOps Engineers
+=================================================
+
+1) Infrastructure setup (servers, network, storage, security...)
+
+2) Managing Multiple Environments (Ex: DEV, SIT, UAT, PILOT, PROD)
+
+ DEV Env : Servers  + Database + Network + Storage + Security + Monitoring
+
+ SIT Env : Servers  + Database + Network + Storage + Security + Monitoring
+
+ UAT Env : Servers + Database + Network + Storage + Security + Monitoring
+ .
+ .
+ PROD Env : Servers + Database + Network + Storage + Security + Monitoring
+
+ 3) Configuration Management
+
+ 4) Source Code Repositories management
+
+ 5) CI CD Pipelines creation/monitoring
+
+        - Build
+        - Code Review
+        - Artifacts management
+        - Containerization
+        - Orchestration
+
+6) Infrastructure Monitoring & Application Monitoring
+
+7) Application Release
+
+
+=====================================================
+Skills Required To Apply For JOBS As DevOps Engineer
+=====================================================
+
+1) Linux OS  --- IMP 
+
+2) Scripting (shell scripting / python scripting)
+
+3) Multi Cloud --- aws
+
+4) DevOps Tools
+
+==================================================
+
+
+1) Course Introduction
+
+2) Course Road Map 
+
+3) Software Project & Why
+
+4) Software Project Architecture
+
+5) Technology stack
+
+6) Project Teams 
+
+7) What is DevOps & Why 
+
+8) DevOps tools overview
+
+9) Roles & Responsibilities of DevOps engineer
+
+10) Skills Required To Become DevOps engineer
+
+
+=============================
+What is IT Infrastructure
+=============================
+
+=> To run a software project we need below resources
+
+        1) Machines
+        2) Database
+        3) Network
+        4) Power
+        5) Storage
+        6) Security
+        7) Backup
+
+=> The above resources are called as IT infrastructure.
+
+=> We can maintain infrastructure in 2 ways
+
+        1) On-Prem infrastructure
+
+        2) Cloud Infrastructure
+
+==================================
+What is On-Prem Infrastructure ?
+==================================        
+
+=> Purchase and manage everything on your own
+
+=> On-Prem means we need to purchase and we need to maintain our resources to run our business.
+
+    1) Lot of money investment
+
+    2) Man Power
+
+    3) Network issues
+
+    4) Scalability (increase/decrease)
+
+    5) Availability
+
+    6) Security
+
+    7) Backup & Recovery
+
+
+=> To overcome the problems of on-prem infrastructure companies are preferring Cloud Infrastructure.
+
+===========================
+What is Cloud Computing ?
+===========================
+
+=> The process of delivering "IT resources" over the internet "on demand" basis is called as Cloud Computing.
+
+=> We have several advantages with cloud computing
+
+    1) No investment
+
+    2) Pay as you go Model (Month end bill)
+
+    3) Scalability (up/down)
+
+    4) Availability
+
+    5) Unlimited Storage
+
+    6) Isolated Network for security
+
+    7) Backup & Restore
+
+
+================
+Cloud Providers
+================
+
+=> The companies which are providing IT infrastructure based on "pay as you go" model are called as Cloud Providers.
+
+1) Amazon (AWS)
+
+2) Microsoft (AZURE)
+
+3) Google (GCP)
+
+4) Salesforce
+
+5) Alibaba
+
+6) Digital Ocena
+
+
+
+1) What is IT infrastructure
+
+2) On-Prem Infrastructure
+
+3) Challenges with On-Prem Infrastructure
+
+4) What is Cloud Computing
+
+5) Cloud Advantages
+
+6) Cloud Providers
+
+
+
+===========
+AWS Cloud  
+=========== 
+
+=> AWS stands for Amazon webservices.
+
+=> AWS providing cloud services from 2006 onwards
+
+=> AWS works based on Pay as you go model
+
+=> 190+ countries using AWS cloud services to run their businesses
+
+=> AWS having global infrastructure
+
+    36 launched Regions
+
+    114 Availability Zones
+
+Note-1 : Region means a location
+
+Note-2 : AZ means Data Center (Server Room)
+
+========================
+How to use AWS Cloud ?
+========================
+
+=> We can create free tier account in aws cloud for practice (1 year limit).
+
+Note: If we use any paid service then bill be generated. AWS will not deduct bill amount from our card.
+
+=> AWS will send reminders for bill payment. If we don't pay bill then our AWS account will suspended.
+
+Note: We can request AWS support team to make bill amount as zero for 1 or 2 times.
+
